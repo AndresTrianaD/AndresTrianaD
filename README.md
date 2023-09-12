@@ -157,7 +157,7 @@ Here are some ideas to get you started:
 
 <div align='center'>
 
-## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
+## <b>Bye!!✨</b>
 
 </div>
 <br>
@@ -169,6 +169,6 @@ Here are some ideas to get you started:
 
 <br>
 
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
+Credit: [Abdul Khalid](https://github.com/0xabdulkh)
 
 Last Edited on: 09/11/2022

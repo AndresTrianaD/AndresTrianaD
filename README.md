@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h1 align="center"><b>Is under renovation</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->A
 <p align="center">
-  <a <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C55B5B&background=77B3D539&width=435&lines=Hola+mundo;I+am+a+frontend+developer" alt="Typing SVG" /></a>></a>
+  <a <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C55B5B&background=77B3D539&width=435&lines=Hola+mundo;I+am+a+frontend+developer" alt="Typing SVG" /></a></a>
 </p>
 
 

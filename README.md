@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <br>
 
 - developerss
-- ss
+- ing sistemas
 - Currently learning Web Development by Self
 - Personal website [link](https://www)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0)

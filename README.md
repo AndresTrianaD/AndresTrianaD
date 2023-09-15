@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 - ing sistemas
 - Currently learning Web Development by Self
 - Personal website [link](https://www)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https:ead.cv/0)
 
 <br><br>
 
@@ -163,7 +163,7 @@ Here are some ideas to get you started:
 
 <div align='center'>
 
-## <b>Bye!!✨</b>
+## <b>Bye!!</b>
 
 </div>
 <br>

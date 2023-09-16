@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 - developerss
 - ing sistemas
-- Currently learning Web Development by Self
+- Cc
 - Personal website [link](https://www)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https:ead.cv/0)
 
